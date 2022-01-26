@@ -1,6 +1,6 @@
-#Git and GitHub Study
+Git and GitHub Study
 
-#기존 맥북 GUI방식 사용에서 CLI방식으로 사용으 위한 연습 및 테스트
+맥에서 기존 GUI방식으로 쓰던 Git을 CLI방식으로 사용하기 위한 연습 및 테스트
 
 Git은 처음 사용전 로그인이 필요하다<br>
 단순하게 홈페이지 로그인이 아닌 PC에 설치되어있는 Git에 로그인<br>
