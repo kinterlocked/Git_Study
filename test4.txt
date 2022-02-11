@@ -1,0 +1,12 @@
+1. git clone "URL"
+2. 원하는 파일을 클론된 폴더에 추가(Untrack red)
+3. git add "file name" -> track
+4. git commit -m " " 
+5. git push origin main
+--- push 메커니즘 -----
+
+pull x
+clone
+
+
+git status -> 현재 나의 git 상태 확인
